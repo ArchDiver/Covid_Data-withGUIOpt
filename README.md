@@ -1,8 +1,9 @@
 # Covid_Data-withGUIOpt
 
-This is the final product of the Covid data with a GUI  
-#-If you want to use the GUI run the gui.py file 
-#-IF you want to use CLI run the covid_main.py file  
+This is the final product of the Covid data with a GUI
+
+# If you want to use the GUI run the gui.py file 
+# IF you want to use CLI run the covid_main.py file  
 
 This Python program:        
     · Read a config file to get the location of an excel file        
