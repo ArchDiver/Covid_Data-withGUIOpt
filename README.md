@@ -1,4 +1,4 @@
-# Covid_Data_GUI
+# Covid_Data_ with GUI option
 This is the final product of the Covid data with a GUI
 
 ## -If you want to use the GUI run the covid_gui_main.py file in the covid_GUI dir
