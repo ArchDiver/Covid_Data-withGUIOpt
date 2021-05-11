@@ -15,8 +15,8 @@ Please make sure all relevant Excel documents are in the same folder as the prog
     In the command line on windows:
     > pip install -r requirements.txt
 
-#-If you want to use the GUI run the gui.py file
-#-IF you want to use CLI run the covid_main.py file
+#-If you want to use the GUI run the gui.py file from the covid_GUI dir
+#-IF you want to use CLI run the covid_main.py file from the covid_no_GUI dir
     -if you are using the CLI you will need to add a .yaml file with the file path like the below example
       e.g. excel_path: C:\Covid_Data-withGUIOpt\covid_base.xlsx
     -the input file will also need to be added the same dir

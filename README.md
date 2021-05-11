@@ -1,8 +1,8 @@
 # Covid_Data_GUI
 This is the final product of the Covid data with a GUI
 
-## -If you want to use the GUI run the covid_gui_main.py file
-## -IF you want to use CLI run the covid_main.py file
+## -If you want to use the GUI run the covid_gui_main.py file in the covid_GUI dir
+## -IF you want to use CLI run the covid_main.py file in the covid_no_GUI dir
     ### -if you are using the CLI you will need to add a .yaml file with the file path like the below example
       e.g. excel_path: C:\Covid_Data-withGUIOpt\covid_base.xlsx
     ### -the input file will also need to be added to the same dir
